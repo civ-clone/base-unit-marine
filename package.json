@@ -13,7 +13,8 @@
   "files": [
     "Marine.js",
     "Marine.d.ts",
-    "Marine.js.map"
+    "Marine.js.map",
+    "Marine.ts"
   ],
   "scripts": {
     "build": "npm run ts:compile && npm run prettier:format",
